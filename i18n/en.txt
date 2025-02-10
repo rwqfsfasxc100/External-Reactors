@@ -1,0 +1,8 @@
+locale|en
+SYSTEM_EXTERIOR_STELLARATOR|StarCAT Exterior Stellarator
+
+SYSTEM_EXTERIOR_STELLARATOR_DESC|Originally fitted as the de-facto reactor for Elon Interstellar's Model E line of vessels, several independent engineers figured out a bypass to the once-impenetrable self-destruct system that prevented tampering to the reactor housing outside of trusted repair shops. The influx of modifications that replaced the fusion stellarator with a robust and significantly cheaper fission reactor led to a large number being returned to StarCAT. \n\nThe numerous returns let to a deficit for StarCAT, who decided to take on the industry of externally fittable reactors to allow the stellarator's impressive power production to be accessible to vessels without a reactor housing able to fit it.
+
+SYSTEM_EXTERIOR_STELLARATOR_SPECS|Power Generation (nominal): 1,500 MW \nThermal Output (nominal): 100 GW \nMass: 30,010 kg \nManufacturer: StarCAT
+
+SYSTEM_EXTERIOR_STELLARATOR_MANUAL|Produces electrical and thermal power \nOperates automatically to produce power when output exceeds internal reactor output \nCan be toggled on and off
